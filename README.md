@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil do alura
 
-meu nome e Danay Pacheco e faço o curso de robotica no [alura](https://www.alura.com.br), estou cursando o 2 do ensino medio na escola Adalberto Prado e Silva em Campinas
+meu nome e Danay Pacheco e faço o curso de robotica no [alura](https://cursos.alura.com.br/user/00001121350598SP), estou cursando o 2 do ensino medio na escola Adalberto Prado e Silva em Campinas
 
 email institucional: 00001121350598sp@al.educacao.sp.gov.br
 
